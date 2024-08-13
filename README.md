@@ -1,6 +1,8 @@
 # ChattScratch
 The official Scratch Chatting Program for public use! Please be good
 
+INFORMATION Chatt V-SnapFlick does not work! If you want to see it in action: go to the SEAROCK beta!
+
 Please give credit if use in other projects.
 
 I built this alone because I got bored. So all of the programming was done by me sitting on my laptop typing away because I got bored.
